@@ -5,11 +5,4 @@
 * Disciplina: Redes Neurais Artificiais
 * Docente: Elloá B. Guedes
 * Equipe: Danilo Frazão, Rafael Aragão & Yasser Tuma
-
-## Definição
-
-
-## Tecnologias
-
-
-## DataSet
+* 
